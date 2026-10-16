@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/heyneerav">Github</a>
+  <a href="https://github.com/heyneerav">Github</a> •
   <a href="https://www.linkedin.com/in/HeyNeerav/">LinkedIn</a> •
   <a href="https://HeyNeerav.tech">Portfolio</a> •
   <a href="mailto:neerav.hey@gmail.com">Email</a>
