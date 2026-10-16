@@ -1,4 +1,4 @@
-<h1 align="center">This account has moved! Find my active work at @heyneerav.</h1>
+<h1 align="center">This account has moved! Find my active work at @HeyNeerav.</h1>
 
 <h3 align="center">
   Backend-focused Full-Stack Developer
@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/heyneerav">Github</a> •
+  <a href="https://github.com/HeyNeerav">Github</a> •
   <a href="https://www.linkedin.com/in/HeyNeerav/">LinkedIn</a> •
   <a href="https://HeyNeerav.tech">Portfolio</a> •
   <a href="mailto:neerav.hey@gmail.com">Email</a>
